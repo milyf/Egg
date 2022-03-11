@@ -58,7 +58,7 @@ public class ColeccionesEjercicio03 {
         
         }
         
-        //OTRO METODO PARA MOSTRAR POR PANTALLA
+        //OTRO METODO PARA MOSTRAR POR PANTALLA*
               
      
         //for (Alumno m : lisA){
